@@ -33,7 +33,7 @@ html {
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
-    color: #829985;
+    color: #27263d;
     transition: color 0.5s;
     text-decoration: none;
 }
@@ -56,6 +56,9 @@ html {
 }
 .section {
     width: 50%;
+    padding: 10px;
+    padding-bottom: 35px;
+    border-bottom: 1px solid #5d7260;
 }
 
 @media (max-width: 768px) {
@@ -69,11 +72,11 @@ html {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985
+    color: #27263d
 }
 
 .header {
-    background-color: bisque;
+    background-color: #8b7aa8
 }
 
 .section-profile-logo {
@@ -88,7 +91,7 @@ html {
     justify-content: space-around;
     width: 100%;
     padding: 50px 30px 35px;
-    border-bottom: 15px solid cadetblue;
+    border-bottom: 15px solid #7aa899;
 }
 
 .section-profile-title {
@@ -104,7 +107,7 @@ html {
     position: relative;
     padding: 0;
     margin-bottom: 20px;
-    color: black;
+    color: #27263d;
     font-size: 32px;
     font-weight: 300;
     letter-spacing: 10px;
@@ -126,8 +129,22 @@ html {
 
 .section-subtitle {
     margin-top: 20px;
-    color: black;
+    color: #27263d;
     line-height: 50px;
     font-weight: 300;
     letter-spacing: 2px;
+}
+
+.section-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.section-item {
+    position: relative;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    padding-left: 30;
 }
