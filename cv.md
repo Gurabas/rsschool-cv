@@ -1,6 +1,6 @@
 # **Efim Yushchanka**
 ## Contacts:
- *  Phone: +375336654654
+ * Vitebsk, Belarus
  * Email: cuper8555@gmail.com
  * GitHub: [Gurabas](https://github.com/Gurabas)
 ## About me: 
