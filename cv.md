@@ -4,7 +4,7 @@
  * Email: cuper8555@gmail.com
  * GitHub: [Gurabas](https://github.com/Gurabas)
 ## About me: 
-I am 29 years old, I work as a network engineer. My goal is to gain knowledge in the field of front-end development.
+I am 30 years old, I work as a network engineer. My goal is to gain knowledge in the field of front-end development.
 * #### My strength:
   + Ability to work in a team
   + Assiduity
@@ -12,16 +12,16 @@ I am 29 years old, I work as a network engineer. My goal is to gain knowledge in
 ## Skills:
   * HTML
   * Css
-  * Java script
+  * Java Script
   * Git/Github
 ## Code Example
-```const car = {
-  brand: 'Ford',
-  model: 'Fiesta',
-  start: function() {
-    console.log('Started ${this.brand} ${this.model}')
-   }
- }
+```    if(!isPlay) {
+        audio.play();
+        isPlay = true
+        play.classList.add('pause');
+        playListContainer.childNodes[playNum].classList.add('item-active');
+        document.querySelector('#track').textContent = playList[playNum].title;
+    }
  ```
  ## Education 
  * Academy of communication
