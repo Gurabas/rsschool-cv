@@ -29,4 +29,4 @@ I am 30 years old, I work as a network engineer. My goal is to gain knowledge in
     + Networks and telecommunications
  ## Languages
  * Russian - native
- * English - A2(B1 in progress..)
+ * English - A2(B1 in progress...)
